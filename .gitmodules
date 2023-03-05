@@ -21,3 +21,6 @@
 [submodule "lib/pico-sdk"]
 	path = lib/pico-sdk
 	url = https://github.com/qmk/pico-sdk.git
+[submodule "qmk_firmware"]
+	path = qmk_firmware
+	url = https://github.com/rtgx473/qmk_firmware
